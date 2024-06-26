@@ -1,0 +1,15 @@
+h1 {
+line-height: 10px;
+text-decoration: underline;
+}
+
+.contacts {
+font-style: italic;
+line-height: 10px;
+padding-top: 0.1px;
+padding-bottom: 0.1px;
+}
+
+.place {
+line-height: 10px;
+}
